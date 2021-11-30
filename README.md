@@ -37,10 +37,16 @@ The Front-end will utilise React.js, and be hosted on Netifly. It will communica
 
 Testing will be performed using cypress.js.
 
-
+R2 Data flow diagram
 ![data flow](https://i.imgur.com/eUpHeDQ.jpg)
 
+Entity Relationship Diagram
+![ERD](https://i.imgur.com/c7EBByU.png)
+
+
+
 ![Architecture Diagram](https://i.imgur.com/cA4e3CJ.png)
+
 
 
 R4 User Stories
