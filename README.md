@@ -40,6 +40,8 @@ Testing will be performed using cypress.js.
 
 ![data flow](https://i.imgur.com/eUpHeDQ.jpg)
 
+![Architecture Diagram](https://i.imgur.com/cA4e3CJ.png)
+
 
 R4 User Stories
 
@@ -96,3 +98,9 @@ R5 Wire Frame
 
 - Wireframe 
 [PDF link](https://github.com/eunbiggabi/Squid-note-wireframe-pdf/blob/main/Taupe%20Organic%20Warm%20Blogger%20Bio%20Link%20Website.pdf)
+
+Trello
+
+![screen shot 1](https://i.imgur.com/qSD4LY5.png)
+![Screen shot 2](https://i.imgur.com/wVKL0uB.png)
+![Screen shot 3](https://i.imgur.com/Ojk2VHt.png)
