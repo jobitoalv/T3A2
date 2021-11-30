@@ -38,4 +38,4 @@ The Front-end will utilise React.js, and be hosted on Netifly. It will communica
 Testing will be performed using cypress.js.
 
 
-![data flow]()
+![data flow](https://i.imgur.com/eUpHeDQ.jpg)
