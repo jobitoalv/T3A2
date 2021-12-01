@@ -38,7 +38,7 @@ Testing will be performed using cypress.js.
 ![data flow1](https://i.imgur.com/l73NLz1.jpg)
 
 ## R3 Application Architecture Diagram
-![Architecture Diagram](https://i.imgur.com/cA4e3CJ.png)
+![Architecture Diagram](https://cdn.discordapp.com/attachments/912503877725741107/915506465492590652/Application_architecture_diagram_1.png)
 
 
 ## R4 User Stories
