@@ -37,8 +37,14 @@ Testing will be performed using cypress.js.
 ## R2 Dataflow Diagram
 ![data flow1](https://i.imgur.com/l73NLz1.jpg)
 
+
+Entity Relationship Diagram
+![ERD](https://i.imgur.com/c7EBByU.png)
+
+
 ## R3 Application Architecture Diagram
 ![Architecture Diagram](https://cdn.discordapp.com/attachments/912503877725741107/915506465492590652/Application_architecture_diagram_1.png)
+
 
 
 ## R4 User Stories
@@ -69,7 +75,9 @@ Three distinct target user types were considered:
 
 - Mark wants to record how much money he spent on shopping. So you can look at the statement and fill out the account book how much money you spent today or a week. They can be grouped by day of the week and written together with the total cost.
 
-Notes -
+
+## R5 WireFrames
+
 
 - It was created to record the event, but I think it can also help fill out the account book.
 
@@ -94,8 +102,6 @@ Notes -
 - Search Event
 ![Search Event](https://i.imgur.com/bOWsQWC.png)
 
-- Wireframe 
-[PDF link](https://github.com/eunbiggabi/Squid-note-wireframe-pdf/blob/main/Taupe%20Organic%20Warm%20Blogger%20Bio%20Link%20Website.pdf)
 
 ## R6 Screenshots of your Trello board throughout the duration of the project
 Day 1.
